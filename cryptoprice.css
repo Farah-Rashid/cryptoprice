@@ -1,0 +1,27 @@
+div{
+    margin: 0 auto;
+    font-family: Georgia;
+    max-width: 30%;
+    padding: 20px;
+    }  
+input[type="text"]{
+ background-color:rgb(222, 252, 252);
+border-radius:20px ;
+font-weight: bold;
+}
+#button{
+    background-color: rgb(222, 252, 252);
+    border-radius: 20px;
+    font-weight: bold;
+}
+#para{
+    margin-top: 30px;
+    font-weight:bold ;
+    text-decoration:underline ;
+}
+#price{
+    font-family: Arial;
+    font-style: italic;
+    padding: 15px;
+    line-height: 1.5; 
+}
